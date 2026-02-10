@@ -14,7 +14,7 @@ const HomePage = async() => {
             <main className="flex-1">
                 <HeroSection />
                 <CategorySection/>
-              
+                <FeaturedMedicines/>
             </main>
         </div>
     );

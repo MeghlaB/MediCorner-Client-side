@@ -4,6 +4,7 @@ import CategorySection from '@/components/modules/category/category-section';
 import FeaturedMedicines from '@/components/modules/home-page/featuresMedicine';
 
 import HeroSection from '@/components/modules/home-page/HeroSection';
+import TrustSection from '@/components/modules/home-page/trustSection';
 
 
 

@@ -1,6 +1,7 @@
 
 
 import CategorySection from '@/components/modules/category/category-section';
+import FeaturedMedicines from '@/components/modules/home-page/featuresMedicine';
 
 import HeroSection from '@/components/modules/home-page/HeroSection';
 
@@ -15,6 +16,7 @@ const HomePage = async() => {
                 <HeroSection />
                 <CategorySection/>
                 <FeaturedMedicines/>
+                   <TrustSection/>
             </main>
         </div>
     );

@@ -79,7 +79,7 @@ export function AppSidebar({ ...props }: React.ComponentProps<typeof Sidebar>) {
         <SidebarMenu>
           <SidebarMenuItem>
             <Link href="/" className="flex items-center gap-2 p-2">
-              <Image src="/logo.png" alt="MediCorner" width={40} height={40} priority />
+              <Image src="/logo2.png" alt="MediCorner" width={40} height={40} priority />
               <div className="leading-tight group-data-[collapsible=icon]:hidden">
                 <p className="text-xl font-bold text-[#15a215]">MediCorner</p>
               </div>

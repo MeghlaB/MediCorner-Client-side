@@ -108,7 +108,7 @@ export function RegisterForm() {
     <Card className="w-full max-w-md mx-auto shadow-xl border-border bg-[#f8fafc]">
       <CardHeader className="flex flex-col items-center gap-1 py-4"> {/* Reduced vertical padding & gap */}
         <div className="flex items-center">
-          <Image src="/logo.png" alt="MediCorner" width={50} height={50} priority />
+          <Image src="/logo2.png" alt="MediCorner" width={50} height={50} priority />
           <div className="leading-tight hidden md:block">
             <p className="text-xl font-bold text-[#15a215] ">MediCorner</p>
           </div>

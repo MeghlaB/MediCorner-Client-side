@@ -45,7 +45,7 @@ export function MedicineCard({ medicine }: MedicineCardProps) {
                 <div className="relative w-full aspect-[4/3] overflow-hidden">
                     <Image
                         fill
-                        src={medicine.thumbnail || "/Kerfin7-NEA-2139.jpg"}
+                        src={medicine.thumbnail || "/card-medicine.png"}
                         alt={medicine.name}
                         className="object-cover transition-transform duration-500 group-hover:scale-105"
                     />

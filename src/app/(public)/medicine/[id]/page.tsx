@@ -16,7 +16,7 @@ import { useRouter } from "next/navigation";
 import { postReview } from "@/services/review.service";
 import { getSingleMedicine } from "@/services/single-medicine.service";
 
-const DEFAULT_IMAGE = "/Kerfin7-NEA-2139.jpg";
+const DEFAULT_IMAGE = "/card-medicine.png";
 
 const MedicineDetailsPage = ({ params }: { params: Promise<{ id: string }> }) => {
     const router = useRouter();

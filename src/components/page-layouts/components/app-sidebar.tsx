@@ -74,7 +74,7 @@ export function AppSidebar(props: React.ComponentProps<typeof Sidebar>) {
             <SidebarMenuButton size="lg" asChild className="hover:bg-transparent px-0">
               <Link href="/" className="flex items-center gap-3">
                 <div className="flex aspect-square size-10 items-center justify-center rounded-lg bg-[#15a215]/10 text-[#15a215]">
-                  <Image src="/logo.png" alt="Logo" width={32} height={32} />
+                  <Image src="/logo2.png" alt="Logo" width={32} height={32} />
                 </div>
                 <div className="flex flex-col gap-0.5 leading-none">
                   <span className="text-lg font-bold tracking-tight text-[#15a215]">

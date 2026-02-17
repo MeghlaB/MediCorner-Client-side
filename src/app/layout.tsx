@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   title: "MediCorner",
   description: "Your trusted medicine shop",
   icons: {
-    icon: "/logo.png",
+    icon: "/logo2.png",
   },
 };
 

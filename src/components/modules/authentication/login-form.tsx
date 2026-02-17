@@ -59,7 +59,7 @@ export function LoginForm() {
       {/* Header with reduced padding */}
       <CardHeader className="flex flex-col items-center gap-1 py-4">
         <div  className="flex items-center">
-          <Image src="/logo.png" alt="MediCorner" width={50} height={50} priority />
+          <Image src="/logo2.png" alt="MediCorner" width={50} height={50} priority />
           <div className="leading-tight hidden md:block">
             <p className="text-xl font-bold text-[#15a215] ">MediCorner</p>
           </div>

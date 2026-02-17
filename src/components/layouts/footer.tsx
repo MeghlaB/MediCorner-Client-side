@@ -8,7 +8,7 @@ import { Send } from "lucide-react";
 const Logo = () => {
     return (
         <Link href="/" className="flex items-center">
-            <Image src="/logo.png" alt="MediCorner" width={80} height={80} priority />
+            <Image src="/logo2.png" alt="MediCorner" width={80} height={80} priority />
             <div className="leading-tight hidden md:block">
                 <p className="text-2xl font-bold text-[#15a215] ">MediCorner</p>
             </div>

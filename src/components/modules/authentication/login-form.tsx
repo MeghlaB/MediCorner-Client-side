@@ -135,7 +135,7 @@ export function LoginForm() {
             </Button>
 
             {/* GOOGLE LOGIN - Official Style */}
-            <Button
+            {/* <Button
               variant="outline"
               type="button"
               className="w-full h-11 flex items-center justify-center gap-3 rounded-xl border-slate-200 bg-white font-bold"
@@ -160,7 +160,7 @@ export function LoginForm() {
                 />
               </svg>
               Continue with Google
-            </Button>
+            </Button> */}
           </FieldGroup>
         </form>
       </CardContent>
